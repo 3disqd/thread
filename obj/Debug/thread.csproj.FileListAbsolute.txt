@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\thread\thread\bin\Debug\thread.exe.config
+\\mac\home\documents\visual studio 2015\Projects\thread\thread\bin\Debug\thread.exe
+\\mac\home\documents\visual studio 2015\Projects\thread\thread\bin\Debug\thread.pdb
+\\mac\home\documents\visual studio 2015\Projects\thread\thread\obj\Debug\thread.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\thread\thread\obj\Debug\thread.exe
+\\mac\home\documents\visual studio 2015\Projects\thread\thread\obj\Debug\thread.pdb
